@@ -1,4 +1,4 @@
-# Zipsync
+# ZipSync
 
 Zipsync is a Rust-based CLI tool for synchronizing files and directories with ZIP archives. It supports both creating ZIP files from local sources and extracting content from ZIP files to the local filesystem, all based on a flexible JSON configuration file.
 
